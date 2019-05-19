@@ -1,0 +1,10 @@
+D:\Visual Studio\Source\repos\Diccionario\bin\Debug\netcoreapp2.1\Diccionario.deps.json
+D:\Visual Studio\Source\repos\Diccionario\bin\Debug\netcoreapp2.1\Diccionario.runtimeconfig.json
+D:\Visual Studio\Source\repos\Diccionario\bin\Debug\netcoreapp2.1\Diccionario.runtimeconfig.dev.json
+D:\Visual Studio\Source\repos\Diccionario\bin\Debug\netcoreapp2.1\Diccionario.dll
+D:\Visual Studio\Source\repos\Diccionario\bin\Debug\netcoreapp2.1\Diccionario.pdb
+D:\Visual Studio\Source\repos\Diccionario\obj\Debug\netcoreapp2.1\Diccionario.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Source\repos\Diccionario\obj\Debug\netcoreapp2.1\Diccionario.AssemblyInfoInputs.cache
+D:\Visual Studio\Source\repos\Diccionario\obj\Debug\netcoreapp2.1\Diccionario.AssemblyInfo.cs
+D:\Visual Studio\Source\repos\Diccionario\obj\Debug\netcoreapp2.1\Diccionario.dll
+D:\Visual Studio\Source\repos\Diccionario\obj\Debug\netcoreapp2.1\Diccionario.pdb

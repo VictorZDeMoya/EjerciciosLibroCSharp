@@ -1,0 +1,10 @@
+D:\Visual Studio\Source\repos\FechaHora\bin\Debug\FechaHora.exe.config
+D:\Visual Studio\Source\repos\FechaHora\bin\Debug\FechaHora.exe
+D:\Visual Studio\Source\repos\FechaHora\bin\Debug\FechaHora.pdb
+D:\Visual Studio\Source\repos\FechaHora\obj\Debug\FechaHora.csprojAssemblyReference.cache
+D:\Visual Studio\Source\repos\FechaHora\obj\Debug\FechaHora.Form1.resources
+D:\Visual Studio\Source\repos\FechaHora\obj\Debug\FechaHora.Properties.Resources.resources
+D:\Visual Studio\Source\repos\FechaHora\obj\Debug\FechaHora.csproj.GenerateResource.cache
+D:\Visual Studio\Source\repos\FechaHora\obj\Debug\FechaHora.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Source\repos\FechaHora\obj\Debug\FechaHora.exe
+D:\Visual Studio\Source\repos\FechaHora\obj\Debug\FechaHora.pdb

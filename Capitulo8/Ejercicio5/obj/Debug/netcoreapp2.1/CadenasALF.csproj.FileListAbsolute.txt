@@ -1,0 +1,11 @@
+D:\Visual Studio\Source\repos\CadenasALF\bin\Debug\netcoreapp2.1\CadenasALF.deps.json
+D:\Visual Studio\Source\repos\CadenasALF\bin\Debug\netcoreapp2.1\CadenasALF.runtimeconfig.json
+D:\Visual Studio\Source\repos\CadenasALF\bin\Debug\netcoreapp2.1\CadenasALF.runtimeconfig.dev.json
+D:\Visual Studio\Source\repos\CadenasALF\bin\Debug\netcoreapp2.1\CadenasALF.dll
+D:\Visual Studio\Source\repos\CadenasALF\bin\Debug\netcoreapp2.1\CadenasALF.pdb
+D:\Visual Studio\Source\repos\CadenasALF\obj\Debug\netcoreapp2.1\CadenasALF.csprojAssemblyReference.cache
+D:\Visual Studio\Source\repos\CadenasALF\obj\Debug\netcoreapp2.1\CadenasALF.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Source\repos\CadenasALF\obj\Debug\netcoreapp2.1\CadenasALF.AssemblyInfoInputs.cache
+D:\Visual Studio\Source\repos\CadenasALF\obj\Debug\netcoreapp2.1\CadenasALF.AssemblyInfo.cs
+D:\Visual Studio\Source\repos\CadenasALF\obj\Debug\netcoreapp2.1\CadenasALF.dll
+D:\Visual Studio\Source\repos\CadenasALF\obj\Debug\netcoreapp2.1\CadenasALF.pdb

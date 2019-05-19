@@ -1,0 +1,11 @@
+D:\Visual Studio\Source\repos\AgendaTLF\bin\Debug\netcoreapp2.1\AgendaTLF.deps.json
+D:\Visual Studio\Source\repos\AgendaTLF\bin\Debug\netcoreapp2.1\AgendaTLF.runtimeconfig.json
+D:\Visual Studio\Source\repos\AgendaTLF\bin\Debug\netcoreapp2.1\AgendaTLF.runtimeconfig.dev.json
+D:\Visual Studio\Source\repos\AgendaTLF\bin\Debug\netcoreapp2.1\AgendaTLF.dll
+D:\Visual Studio\Source\repos\AgendaTLF\bin\Debug\netcoreapp2.1\AgendaTLF.pdb
+D:\Visual Studio\Source\repos\AgendaTLF\obj\Debug\netcoreapp2.1\AgendaTLF.csprojAssemblyReference.cache
+D:\Visual Studio\Source\repos\AgendaTLF\obj\Debug\netcoreapp2.1\AgendaTLF.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Source\repos\AgendaTLF\obj\Debug\netcoreapp2.1\AgendaTLF.AssemblyInfoInputs.cache
+D:\Visual Studio\Source\repos\AgendaTLF\obj\Debug\netcoreapp2.1\AgendaTLF.AssemblyInfo.cs
+D:\Visual Studio\Source\repos\AgendaTLF\obj\Debug\netcoreapp2.1\AgendaTLF.dll
+D:\Visual Studio\Source\repos\AgendaTLF\obj\Debug\netcoreapp2.1\AgendaTLF.pdb

@@ -1,0 +1,10 @@
+D:\Visual Studio\Source\repos\FactorialNum\bin\Debug\FactorialNum.exe.config
+D:\Visual Studio\Source\repos\FactorialNum\bin\Debug\FactorialNum.exe
+D:\Visual Studio\Source\repos\FactorialNum\bin\Debug\FactorialNum.pdb
+D:\Visual Studio\Source\repos\FactorialNum\obj\Debug\FactorialNum.csprojAssemblyReference.cache
+D:\Visual Studio\Source\repos\FactorialNum\obj\Debug\FactorialNum.Form1.resources
+D:\Visual Studio\Source\repos\FactorialNum\obj\Debug\FactorialNum.Properties.Resources.resources
+D:\Visual Studio\Source\repos\FactorialNum\obj\Debug\FactorialNum.csproj.GenerateResource.cache
+D:\Visual Studio\Source\repos\FactorialNum\obj\Debug\FactorialNum.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Source\repos\FactorialNum\obj\Debug\FactorialNum.exe
+D:\Visual Studio\Source\repos\FactorialNum\obj\Debug\FactorialNum.pdb
