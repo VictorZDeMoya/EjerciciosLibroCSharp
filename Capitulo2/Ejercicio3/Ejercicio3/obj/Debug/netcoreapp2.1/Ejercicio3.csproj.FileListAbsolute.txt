@@ -1,0 +1,10 @@
+D:\Visual Studio\Source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp2.1\Ejercicio3.deps.json
+D:\Visual Studio\Source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp2.1\Ejercicio3.runtimeconfig.json
+D:\Visual Studio\Source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp2.1\Ejercicio3.runtimeconfig.dev.json
+D:\Visual Studio\Source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp2.1\Ejercicio3.dll
+D:\Visual Studio\Source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp2.1\Ejercicio3.pdb
+D:\Visual Studio\Source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp2.1\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp2.1\Ejercicio3.AssemblyInfoInputs.cache
+D:\Visual Studio\Source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp2.1\Ejercicio3.AssemblyInfo.cs
+D:\Visual Studio\Source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp2.1\Ejercicio3.dll
+D:\Visual Studio\Source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp2.1\Ejercicio3.pdb
